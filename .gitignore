@@ -1,0 +1,10 @@
+*
+!*/
+*/*
+!.gitignore
+!*.dll
+!*.xml
+!*.ini
+!*.$pj
+!*.prj
+!README.txt
